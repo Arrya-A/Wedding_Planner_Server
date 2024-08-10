@@ -59,6 +59,17 @@
       "priceVeg": "150",
       "priceNonVeg": "247",
       "id": 1
+    },
+    {
+      "projectImg": "",
+      "caterer": "xyz",
+      "emailid": "xyz@gmail.com",
+      "city": "Kozhikode",
+      "contactno": "9876543212",
+      "capacity": "",
+      "priceVeg": "150",
+      "priceNonVeg": "519",
+      "id": 2
     }
   ]
 }

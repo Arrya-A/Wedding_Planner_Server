@@ -1,75 +1,35 @@
 {
   "vendorData": [
     {
-      "venue": "ABC Convention Hall",
-      "emailid": "abc@gmail.com",
-      "city": "Kozhikode",
-      "contactno": "9876543210",
-      "capacity": "500",
-      "price": "25000",
+      "projectImg": "",
+      "venue": "qq",
+      "emailid": "qqq",
+      "city": "qqq",
+      "contactno": "12",
+      "capacity": "33",
+      "price": "55",
+      "bookedDates": [
+        "2024-08-13T18:30:00.000Z",
+        "2024-08-15T18:29:59.999Z"
+      ],
       "id": 1
-    },
-    {
-      "venue": "XYZ Hall",
-      "emailid": "xyz@gmail.com",
-      "city": "Kannur",
-      "contactno": "9875462314",
-      "capacity": "200",
-      "price": "50000",
-      "id": 2
-    },
-    {
-      "venue": "Lotus Hall",
-      "emailid": "lotus@gmail.com",
-      "city": "Kochi",
-      "contactno": "7845896854",
-      "capacity": "500",
-      "price": "100000",
-      "id": 3
-    },
-    {
-      "projectImg": {},
-      "venue": "ww",
-      "emailid": "ww",
-      "city": "ww",
-      "contactno": "33",
-      "capacity": "33",
-      "price": "33",
-      "id": 4
-    },
-    {
-      "projectImg": {},
-      "venue": "ww",
-      "emailid": "ww",
-      "city": "ww",
-      "contactno": "33",
-      "capacity": "33",
-      "price": "33",
-      "id": 5
     }
   ],
   "vendorDataC": [
     {
       "projectImg": "",
-      "caterer": "Abc Caterting",
-      "emailid": "abc@gmail.com",
-      "city": "Kochi",
-      "contactno": "6549874563",
+      "caterer": "er",
+      "emailid": "yy",
+      "city": "yy",
+      "contactno": "55",
       "capacity": "",
-      "priceVeg": "150",
-      "priceNonVeg": "247",
+      "priceVeg": "66",
+      "priceNonVeg": "88",
+      "bookedDates": [
+        "2024-09-11T18:30:00.000Z",
+        "2024-09-13T18:29:59.999Z"
+      ],
       "id": 1
-    },
-    {
-      "projectImg": "",
-      "caterer": "xyz",
-      "emailid": "xyz@gmail.com",
-      "city": "Kozhikode",
-      "contactno": "9876543212",
-      "capacity": "",
-      "priceVeg": "150",
-      "priceNonVeg": "519",
-      "id": 2
     }
   ]
 }
